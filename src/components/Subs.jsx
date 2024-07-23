@@ -4,7 +4,7 @@ const Subs = () => {
   return (
     <div>
       {" "}
-      <h2 className="text-center text-zinc-200 font-semibold mb-4 text-lg">
+      <h2 className="text-center text-zinc-200 font-semibold mb-4 text-xl">
         Subscription Plans
       </h2>
       <div className="overflow-x-auto">

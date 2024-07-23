@@ -3,7 +3,7 @@ import React from "react";
 const Credits = () => {
   return (
     <div>
-      <h2 className="text-center text-zinc-200 font-semibold my-28  mb-4 text-lg">
+      <h2 className="text-center text-zinc-200 font-semibold my-28  mb-4 text-xl">
         Credits
       </h2>
       <div className="overflow-x-auto">

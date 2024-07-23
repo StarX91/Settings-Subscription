@@ -9,7 +9,7 @@ const Menu = () => {
           <FaUser />
           <span>Profile</span>
         </button>
-        <button className="flex items-center space-x-2 p-4 bg-neutral-900 border-2 border-zinc-600 rounded-md font-semibold">
+        <button className="bg-neutral-600 flex items-center space-x-2 p-4 bg-neutral-900 border-2 border-zinc-600 rounded-md font-semibold">
           <FaRegCreditCard />
           <span>Subscriptions</span>
         </button>
